@@ -1,4 +1,4 @@
-# BitTrail — CTF Writeup
+# BitTrail
 
 ## Challenge Description
 
@@ -84,8 +84,6 @@ At this point, the plaintext was clearly a flag, so the rotation was confirmed.
 ```text
 CTF{b1t_5h1ft_15_4w3s0m3}
 ```
-
----
 
 ## Tools Used
 
