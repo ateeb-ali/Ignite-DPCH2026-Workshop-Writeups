@@ -89,4 +89,3 @@ flag{g1_gr1d_gl1tch}
 - `strings`
 - Python 3 (simple XOR)
 - Manual rearrangement of the 4-byte columns
-```
