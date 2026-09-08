@@ -26,5 +26,5 @@ More writeups may be added over time.
 Thanks to Ignite – National Technology Fund, Trillium Information Security Systems the mentors, and everyone involved in the **Digital Pakistan Cyber Hackathon 2026** workshop for providing the opportunity to learn and practice cybersecurity in a hands-on environment.
 
 ---
-
+> Web-based challenges have their flags redacted as every player gets different flags.
 **Happy Hacking! 🚩**
