@@ -8,16 +8,6 @@ During the workshop, we worked through a variety of cybersecurity challenges and
 
 ---
 
-### 🌐 Why aren't Web challenges included?
-
-Web-based challenges from the workshop are intentionally **not included** in this repository.
-
-Many of them relied on live challenge instances or temporary environments. Because of this, simply documenting the solution may not provide a reproducible experience for someone reading the writeup later.
-
-Therefore, this repository focuses primarily on challenges whose solutions can be reasonably documented and reproduced without access to the original live instances.
-
----
-
 ## 🎯 Purpose
 
 This repository serves as:
